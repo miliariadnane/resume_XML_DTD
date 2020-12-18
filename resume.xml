@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE resume SYSTEM "resume.dtd">  
+
+<resume>
+        <section>
+                <part>
+                    <personnal>
+                            <fistname>adnane</fistname>
+                            <lastname>miliari</lastname>
+                            <birth>19/06/1998</birth>
+                            <url>miliari-adnane.com</url>
+                    </personnal>
+                <part>
+                </part>
+                    <contact>
+                            <address>
+                                <street>Street Mohamed VI Boudnib, Errachidia</street>
+                                <zc>52150</zc>
+                                <town>Errachidia</town>
+                                <country>Morocco</country>
+                            </address>
+                            <tel>06 37 81 99 57</tel>
+                            <mail>miliari.adnane@gmail.com</mail>
+                    </contact>
+                </part>
+        </section>
+        <section>
+                <part>
+                    <education>
+                            <title>Master Degree</title>
+                            <from>2021</from>
+                            <to>2018</to>
+                            <school>Private University Marrakesh</school>
+                            <description>New Information and Communication Technologies - NICT</description>
+                    </education>
+                    <education>
+                            <title>preparatory classes</title>
+                            <from>2016</from>
+                            <to>2018</to>
+                            <school>Private University Marrakesh</school>
+                            <description>scientific preparatory classes</description>
+                    </education>
+                    <education>
+                            <title>scientific baccalaureate</title>
+                            <from>2016</from>
+                            <to>2016</to>
+                            <school>Maarakat Boudnib School</school>
+                            <description>baccalaureate science physics - mention well</description>
+                    </education>
+                </part>
+                <part>
+                    <experience>
+                            <title>web developer JAVA SPRING / Thymeleaf</title>
+                            <from>08/2020</from>
+                            <to>10/2020</to>
+                            <company>M4TECH</company>
+                            <place>Errachidia</place>
+                            <description>develop a system to manage the administration mail</description>
+                    </experience>
+                    <experience>
+                            <title>Back-end web developer Laravel</title>
+                            <from>07/2020</from>
+                            <to>08/2020</to>
+                            <company>HALTYS</company>
+                            <place>Paris</place>
+                            <description>develop a system to manage and maintain SRM lite version</description>
+                    </experience>
+                    <experience>
+                            <title>Full-Stack web developer Laravel</title>
+                            <from>07/2019</from>
+                            <to>09/2019</to>
+                            <company>Mohammadi law firm</company>
+                            <place>Mohamadia</place>
+                            <description>develop a system to manage and maintain law firm</description>
+                    </experience>
+                </part>
+        </section>
+        <section>
+                <part>
+                    <skills>
+                        <skill>JAVA - SPRING BOOT / JAVA FX / JPA / HIBERNATE</skill>
+                        <skill>LARAVEL / JAVASCRIPT / BOOTSTRAP </skill>
+                        <skill>REACTJS / ANGULAR</skill>
+                        <skill>AI / ML / DL</skill>
+                        <skill>FLUTTER / IONIC</skill>
+                    </skills>
+                <part>
+                </part>
+                    <hobbies>
+                        <hobby>Soccer</hobby>
+                        <hobby>Teakwondo</hobby>
+                        <hobby>Video Games</hobby>
+                    </hobbies>
+                </part>
+        </section>
+</resume>

@@ -1,0 +1,35 @@
+<!DOCTYPE cv [
+<!ELEMENT resume (section* part*)>
+<!ELEMENT section (part*)>
+<!ELEMENT part (personnal?, contact?, skills*, education*, experience*, hobbie*)>
+<!ELEMENT personnal (fistname, lastname, birth, url?)>
+	<!ELEMENT fistname (#PCDATA)>
+	<!ELEMENT lastname (#PCDATA)>
+	<!ELEMENT birth (#PCDATA)>
+	<!ELEMENT url (#PCDATA)>
+<!ELEMENT contact (address, tel, mail)>
+	<!ELEMENT address (street, zc, town, country?)>
+		<!ELEMENT street (#PCDATA)>
+		<!ELEMENT zc (#PCDATA)>
+		<!ELEMENT town (#PCDATA)>
+		<!ELEMENT country (#PCDATA)>
+	<!ELEMENT tel (#PCDATA)>
+	<!ELEMENT mail (#PCDATA)>
+<!ELEMENT education (title*, from*, to*, school*, description*)>
+	<!ELEMENT title (#PCDATA)>
+	<!ELEMENT from (#PCDATA)>
+	<!ELEMENT to (#PCDATA)>
+	<!ELEMENT school (#PCDATA)>
+	<!ELEMENT description (#PCDATA)>
+<!ELEMENT experience (title*, from*, to*, company*, place*, description*)>
+    <!ELEMENT title (#PCDATA)>
+	<!ELEMENT from (#PCDATA)>
+	<!ELEMENT to (#PCDATA)>
+    <!ELEMENT company (#PCDATA)>
+	<!ELEMENT place (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+<!ELEMENT skills (skill*)>
+	<!ELEMENT skill (#PCDATA)>
+<!ELEMENT hobbies (hobby*)>
+    <!ELEMENT hobby (#PCDATA)>
+]>
