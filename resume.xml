@@ -11,8 +11,8 @@
                             <birth>19/06/1998</birth>
                             <url>miliari-adnane.com</url>
                     </personnal>
-                <part>
                 </part>
+                <part>
                     <contact>
                             <address>
                                 <street>Street Mohamed VI Boudnib, Errachidia</street>
@@ -24,8 +24,6 @@
                             <mail>miliari.adnane@gmail.com</mail>
                     </contact>
                 </part>
-        </section>
-        <section>
                 <part>
                     <education>
                             <title>Master Degree</title>
@@ -51,28 +49,28 @@
                 </part>
                 <part>
                     <experience>
-                            <title>web developer JAVA SPRING / Thymeleaf</title>
-                            <from>08/2020</from>
-                            <to>10/2020</to>
+                            <head>web developer JAVA SPRING / Thymeleaf</head>
+                            <startdate>08/2020</startdate>
+                            <findate>10/2020</findate>
                             <company>M4TECH</company>
                             <place>Errachidia</place>
-                            <description>develop a system to manage the administration mail</description>
+                            <descr>develop a system to manage the administration mail</descr>
                     </experience>
                     <experience>
-                            <title>Back-end web developer Laravel</title>
-                            <from>07/2020</from>
-                            <to>08/2020</to>
+                            <head>Back-end web developer Laravel</head>
+                            <startdate>07/2020</startdate>
+                            <findate>08/2020</findate>
                             <company>HALTYS</company>
                             <place>Paris</place>
-                            <description>develop a system to manage and maintain SRM lite version</description>
+                            <descr>develop a system to manage and maintain SRM lite version</descr>
                     </experience>
                     <experience>
-                            <title>Full-Stack web developer Laravel</title>
-                            <from>07/2019</from>
-                            <to>09/2019</to>
+                            <head>Full-Stack web developer Laravel</head>
+                            <startdate>07/2019</startdate>
+                            <findate>09/2019</findate>
                             <company>Mohammadi law firm</company>
                             <place>Mohamadia</place>
-                            <description>develop a system to manage and maintain law firm</description>
+                            <descr>develop a system to manage and maintain law firm</descr>
                     </experience>
                 </part>
         </section>
@@ -85,8 +83,8 @@
                         <skill>AI / ML / DL</skill>
                         <skill>FLUTTER / IONIC</skill>
                     </skills>
-                <part>
                 </part>
+                <part>
                     <hobbies>
                         <hobby>Soccer</hobby>
                         <hobby>Teakwondo</hobby>
